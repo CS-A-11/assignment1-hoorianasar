@@ -1,3 +1,3 @@
 Personal site: https://hoorianasar.github.io/
 
-Project site: https://CS-A-11/assignment1-hoorianasar
+Project site:https://cs-a-11.github.io/assignment1-hoorianasar/
